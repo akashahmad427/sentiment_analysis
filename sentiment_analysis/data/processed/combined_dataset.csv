@@ -1,0 +1,151 @@
+text,label,source,label_name
+The meeting ran a bit longer than expected today but we covered all agenda items,1,tweets,neutral
+The weather is absolutely perfect today. Could not ask for a better afternoon,2,tweets,positive
+"The quality is absolutely dreadful. Cheap materials, poor craftsmanship, and it does not work properly at all. Complete waste of both money and time.",0,product_reviews,negative
+I was skeptical at first based on the price point but this completely changed my mind. Premium quality at an affordable price. Family loves it.,2,product_reviews,positive
+This is the third one I have bought and I keep coming back because quality is consistently excellent. Fast shipping and perfect packaging.,2,product_reviews,positive
+Failed my driving test for the second time. Feeling so defeated and hopeless,0,tweets,negative
+Reorganized my desk today. It looks more organized than it did before now,1,tweets,neutral
+Ordinary product that does its job adequately. No standout features and no major flaws. Just a basic functional item at a reasonable price. Fair enough.,1,product_reviews,neutral
+Scheduled a dentist appointment for next month. Just a regular cleaning visit,1,tweets,neutral
+Impressive durability after six months of heavy daily use. Shows no signs of wear at all. Definitely built to last. Already recommended to colleagues.,2,product_reviews,positive
+I am very disappointed with this product. It looked great in the photos but the actual item is much smaller and made from very cheap low quality materials.,0,product_reviews,negative
+Great customer service from the airline! They upgraded me without even asking,2,tweets,positive
+New software update completely broke my workflow. Why fix what was not broken?,0,tweets,negative
+Hit a new personal record at the gym today! Progress feels so incredibly good,2,tweets,positive
+Just finished reading an incredible novel. Highly recommend it to everyone,2,tweets,positive
+Had lunch at a new cafe downtown. It was an average experience overall I suppose,1,tweets,neutral
+False advertising at its finest. The description claims professional grade but it is clearly a cheap knockoff. I should have read reviews more carefully.,0,product_reviews,negative
+Cooked a simple pasta for dinner. Nothing fancy but it filled me up well enough,1,tweets,neutral
+Reading about the new updates to Python. Some interesting changes in this version,1,tweets,neutral
+Purchased this for a specific purpose and it works fine for that task. Not versatile enough for other uses I considered but adequate for what I needed.,1,product_reviews,neutral
+Ordered online three weeks ago and still have not received my package. Terrible,0,tweets,negative
+"Standard product, exactly what you would expect at this price range. Works as described. Shipping was normal. No complaints but nothing to rave about.",1,product_reviews,neutral
+My laptop just died right before my deadline. This day is a complete disaster,0,tweets,negative
+"I have used similar products from other brands and this one is pretty comparable. Average in every way including build quality, performance, and value.",1,product_reviews,neutral
+"Third product from this brand. They are consistently mediocre. Never excellent, never terrible. Reliable in their averageness if nothing else at all.",1,product_reviews,neutral
+"Three out of five stars pretty much sums it up. It works, it arrived on time, and it does what the description says. Average in every measurable way.",1,product_reviews,neutral
+Complete garbage. Broke within a week of light use. The seller refused to provide a refund despite the product being clearly defective and unusable.,0,product_reviews,negative
+Meets the minimum requirements for what I needed it for. Not exceptional by any means but it does function correctly and arrived without any problems.,1,product_reviews,neutral
+Got a parking ticket even though I was only five minutes over the limit. So unfair,0,tweets,negative
+My phone screen cracked after dropping it once. These phones are so fragile now,0,tweets,negative
+Finished my thesis after two years of hard work. Feeling incredibly accomplished,2,tweets,positive
+Woke up feeling so refreshed and motivated today. Going to have a great day!,2,tweets,positive
+Took the bus to work instead of driving today. Arrived at the usual time as always,1,tweets,neutral
+Surprise package arrived! My family sent my favorite snacks from home,2,tweets,positive
+Terrible experience at the hotel. Room was dirty and staff was completely unhelpful,0,tweets,negative
+Serviceable product that does its job without any drama. Nothing exciting about it at all but it functions as intended and represents fair value overall.,1,product_reviews,neutral
+Went to the grocery store. They were out of my usual brand so I tried a different one,1,tweets,neutral
+Cannot believe how rude the staff was at that restaurant. Never going back there,0,tweets,negative
+Best birthday ever! Surrounded by family and friends who love me. Grateful beyond words,2,tweets,positive
+The movie was a complete waste of two hours. Terrible plot and awful acting,0,tweets,negative
+It is fine for what it is. I would not say I am thrilled with it but I am not upset either. Middle of the road product that meets basic requirements.,1,product_reviews,neutral
+"Exceeded my expectations in every single way. Fast delivery, excellent packaging, and the product itself works perfectly as advertised. Very happy.",2,product_reviews,positive
+I bought this after reading mixed reviews but I am so glad I did. It works flawlessly and the build quality is much better than I anticipated.,2,product_reviews,positive
+My sister just had a baby girl! I am the happiest uncle in the entire world!,2,tweets,positive
+Absolutely loving this book I started reading. Cannot put it down at all!,2,tweets,positive
+Perfect gift! My partner was thrilled and immediately put it to use. Attention to detail in the design is impressive. Arrived two days early.,2,product_reviews,positive
+"Gets the job done but does not stand out in any particular way. Packaging was fine, delivery was on time, and the product functions as described. Okay.",1,product_reviews,neutral
+Adequate for basic use. The build quality is mediocre but acceptable at this price range. Would be useful for someone with simple and straightforward needs.,1,product_reviews,neutral
+Absolutely love this product! It exceeded all my expectations. Build quality is outstanding and works exactly as described. Highly recommend.,2,product_reviews,positive
+"Horrible experience from start to finish. Product arrived late, was damaged, and did not function as described. Customer service was rude and unhelpful.",0,product_reviews,negative
+"Could not be happier with this purchase. Great quality, reasonable price, and it works exactly as advertised. Absolutely no issues whatsoever.",2,product_reviews,positive
+"Arrived damaged and when I reported it, the seller offered only a ten percent refund. Absolutely unacceptable behavior. Opening a dispute with my card.",0,product_reviews,negative
+Made a grocery list for the week. Need to pick up the usual items from the store,1,tweets,neutral
+Just had the most amazing coffee this morning! Feeling energized and ready to go!,2,tweets,positive
+"Complete disaster of a product. Falls apart easily, does not work as advertised, and the customer service is non existent. Save your money and look elsewhere.",0,product_reviews,negative
+The office was quiet today with half the team working from home remotely,1,tweets,neutral
+Traffic is absolutely terrible today. Two hours to go ten miles. Losing my mind,0,tweets,negative
+The project got cancelled after six months of work. Feeling completely devastated,0,tweets,negative
+The new restaurant was a huge disappointment. Cold food and extremely slow service,0,tweets,negative
+Updated my resume this afternoon. Just keeping it current for future opportunities,1,tweets,neutral
+Extremely poor quality for the price. I have seen better products at a fraction of the cost. Will not be buying from this brand or seller ever again.,0,product_reviews,negative
+Just discovered a new coffee shop that is absolutely perfect in every way,2,tweets,positive
+Worst flight experience ever. Four hour delay and no explanation from the airline,0,tweets,negative
+My team won the championship today! Years of practice finally paid off!,2,tweets,positive
+"This product is simply outstanding. Easy to assemble, great build quality, and works perfectly for my needs. Worth every single cent of the price.",2,product_reviews,positive
+Missed my train by thirty seconds. Had to wait an hour in the cold. Awful day,0,tweets,negative
+Brilliant product that arrived quickly and in perfect condition. Extremely happy with the quality and will definitely be ordering again in the future.,2,product_reviews,positive
+"Zero stars if I could give them. Product arrived broken, replacement also broken, and now they will not respond to my emails. Truly shocking customer service.",0,product_reviews,negative
+The customer service representative was condescending and completely unhelpful,0,tweets,negative
+This exceeded my expectations significantly. Build quality is superb and performance is excellent. Would give it six stars if the system allowed it.,2,product_reviews,positive
+Very poor quality. The product fell apart after less than a month of normal careful use. I expected much better from a company charging this much money.,0,product_reviews,negative
+Got food poisoning from that new place downtown. Stay away from there completely,0,tweets,negative
+It works. That is really all I can say about it. Nothing special or remarkable but it functions correctly and arrived without any issues or damage.,1,product_reviews,neutral
+"Do not buy this! The product looks nothing like the photos. Cheap plastic, flimsy construction, and completely ineffective. Total waste of money.",0,product_reviews,negative
+Bought a new book at the library sale. Will start reading it this weekend maybe,1,tweets,neutral
+Outstanding quality for the price. I have purchased many similar products and this one stands out as the clear winner in its category hands down.,2,product_reviews,positive
+"I ordered this expecting something decent and that is exactly what I got. Decent. Not good, not bad. Just decent and functional for its intended purpose.",1,product_reviews,neutral
+The weather today is partly cloudy with temperatures around sixty five degrees,1,tweets,neutral
+Just got promoted at work! Hard work really does pay off. Dreams do come true!,2,tweets,positive
+High quality product that does exactly what it promises. Very happy with my purchase and would not hesitate to buy again or recommend to others.,2,product_reviews,positive
+Do not waste your money on this. It stopped working after just a few days of use and the company made the return process as difficult as possible for me.,0,product_reviews,negative
+My package arrived completely damaged and the seller is refusing to refund me,0,tweets,negative
+My landlord still has not fixed the heating and it has been two weeks. Freezing!,0,tweets,negative
+"Game changer! I have been struggling with this problem for years and this product solved it immediately. Simple, effective, and worth every penny.",2,product_reviews,positive
+"Best purchase I have made this year. Instructions were clear, setup was easy, and performance is top notch. Five stars without hesitation.",2,product_reviews,positive
+Lost my wallet today with everything in it. This week keeps getting worse,0,tweets,negative
+Biggest waste of money I have spent in years. The product does nothing it claims to do and the customer service team was completely dismissive of my concerns.,0,product_reviews,negative
+Cooked my first homemade pasta from scratch and it actually tasted amazing,2,tweets,positive
+My flight got cancelled and they did not offer any compensation at all. Outrageous,0,tweets,negative
+Watched the evening news before bed. Same topics as yesterday being discussed,1,tweets,neutral
+Amazing purchase! The quality is incredible for this price point. I have bought many similar items and this is by far the best one I have owned.,2,product_reviews,positive
+Terrible experience overall. Product did not work out of the box and the company made me jump through hoops just to get a replacement. Never buying again.,0,product_reviews,negative
+Amazing product that has completely transformed my daily routine. Cannot imagine going back to my old method. Well worth the investment for sure.,2,product_reviews,positive
+Neither impressed nor disappointed with this purchase. It does exactly what the listing says it does. Quality is appropriate for the price point.,1,product_reviews,neutral
+"A perfectly average product in every sense of the word. Works as expected, nothing more. Would probably try a different brand next time to compare.",1,product_reviews,neutral
+Best decision I made this year was buying this product. It solved my problem instantly and the quality is far better than anything else I tried before.,2,product_reviews,positive
+Reconnected with an old friend today. Some friendships are truly timeless,2,tweets,positive
+Just booked my dream vacation to Japan! I have wanted this for years now,2,tweets,positive
+I bought this based on the positive reviews but I think they must be fake. The actual product is nothing like what is described and it broke within days.,0,product_reviews,negative
+Product arrived on time and matches the description. Nothing particularly special about it but it does what it is supposed to do. Average quality.,1,product_reviews,neutral
+My dog just learned a new trick. Cutest thing I have ever seen in my life,2,tweets,positive
+Finally got the job offer I was waiting for. All the hard work paid off big time,2,tweets,positive
+"Gym was overcrowded, equipment broken, and music was way too loud. Waste of time",0,tweets,negative
+Called my mom to catch up. We talked for about fifteen minutes about general things,1,tweets,neutral
+Does what it needs to do without any fuss. Not the best quality I have seen but certainly not the worst either. Reasonable value for the price paid.,1,product_reviews,neutral
+The sunset today was absolutely breathtaking. Nature never fails to amaze me,2,tweets,positive
+"Terrible product that does not match the description at all. The materials are cheap, construction is poor, and it does not function as advertised either.",0,product_reviews,negative
+Extremely disappointed with this purchase. Stopped working after just two weeks of normal use. Return process was also a nightmare to deal with.,0,product_reviews,negative
+Finally finished my marathon training! 26.2 miles here I come!,2,tweets,positive
+Had a routine check up at the doctor. Everything came back completely normal,1,tweets,neutral
+Picked up my dry cleaning after work. Normal Tuesday stuff as usual,1,tweets,neutral
+It is okay. Not as impressive as I hoped but not terrible either. Does the basic job well enough. Probably will not repurchase but will not return it.,1,product_reviews,neutral
+Just finished watching the news. Lots of things happening around the world today,1,tweets,neutral
+Awful product that broke immediately. When I contacted support they told me it was user error even though I followed all the instructions exactly as written.,0,product_reviews,negative
+My headphones broke after just two months of normal use. Very poor build quality,0,tweets,negative
+Average product with average quality. Does what it says on the box and nothing more. Shipping was standard and the item arrived in acceptable condition.,1,product_reviews,neutral
+Tried a new recipe for dinner tonight. It turned out okay but nothing special,1,tweets,neutral
+Acceptable quality for the price. Would not say it is impressive but it gets the job done reliably enough. Packaging was fine and delivery was on time.,1,product_reviews,neutral
+"Exactly what I needed! Sturdy, well-designed, and performs better than more expensive alternatives I have tried. Very responsive customer service too.",2,product_reviews,positive
+My commute to work today took about thirty five minutes. About the usual time,1,tweets,neutral
+"I am completely blown away by how well this works. Simple to use, durable, and effective. Exactly what the description says. No complaints whatsoever.",2,product_reviews,positive
+My internet has been down for three days and the provider keeps giving excuses,0,tweets,negative
+Finished the quarterly report today. Submitted it before the deadline as expected,1,tweets,neutral
+Fantastic product with incredible attention to detail. You can tell the manufacturer really cares about quality. Will definitely buy from them again.,2,product_reviews,positive
+Waited two hours at the doctor office only to be told to come back another day,0,tweets,negative
+Truly exceptional product. I have been using it daily for three months and it still works as well as the day I bought it. Incredible value for money.,2,product_reviews,positive
+Does not work as advertised for my use case at all. Very misleading product description. The dimensions were also significantly off from what was listed.,0,product_reviews,negative
+"Avoid this product completely. It is poorly made, does not work as described, and the company has terrible customer service. Deeply regret this purchase.",0,product_reviews,negative
+Had the best dinner with my parents tonight. These moments are truly priceless,2,tweets,positive
+Watched a documentary about ocean life. Informative but not particularly exciting,1,tweets,neutral
+A reasonable product at a fair price. Does what it claims to do without any major issues. Not something I would rave about but also not a complaint.,1,product_reviews,neutral
+"Functional and straightforward. No frills, no surprises. If you just need something basic that works this will do the job. Nothing more, nothing less.",1,product_reviews,neutral
+Third time calling customer support and they still have not resolved my issue,0,tweets,negative
+Not bad but not great either. I was hoping for something a bit better at this price point. It works but there is definitely room for improvement here.,1,product_reviews,neutral
+So proud of my team today! We crushed that presentation and the client loved everything,2,tweets,positive
+Attended a work meeting this morning about next quarter planning activities,1,tweets,neutral
+Decent product for the money. I have seen better and I have seen worse. It handles the basic tasks well enough for occasional use when needed.,1,product_reviews,neutral
+"This is the worst product I have ever bought. Instructions were wrong, missing parts in the box, and customer support was completely unhelpful to me.",0,product_reviews,negative
+"Wonderful product that has made my life so much easier. Easy to use, durable, and effective. Cannot recommend it highly enough to anyone who needs it.",2,product_reviews,positive
+Disappointed does not begin to describe how I feel. This product is clearly designed to look good in photos but fails completely in actual real world use.,0,product_reviews,negative
+"Five star product all the way! Easy to set up, works great, and looks exactly like the photos. My whole family has been enjoying it since day one.",2,product_reviews,positive
+Walked to the post office to mail a package. Took about twenty minutes round trip,1,tweets,neutral
+Very disappointed with this purchase. The product looks cheaply made in person and does not perform anywhere near as well as the marketing claims it does.,0,product_reviews,negative
+"Standard quality, standard performance, standard experience overall. If you need a no frills basic option this fills that role adequately enough for most.",1,product_reviews,neutral
+My garden is blooming beautifully this spring. So satisfying to see it grow,2,tweets,positive
+Got a haircut today. The barber did a standard job as he usually does for me,1,tweets,neutral
+After three months the color has faded completely and several parts have started to peel badly. For this price I expected much better longevity overall.,0,product_reviews,negative
+My startup just got its first paying customer! This journey is becoming real!,2,tweets,positive
+"Perfect in every way. Looks great, works great, and arrived quickly. I have already recommended this to three of my friends and colleagues at work.",2,product_reviews,positive
+Terrible quality. It broke on the very first use. The company offers no real warranty support. Just automated responses. Avoid this seller completely.,0,product_reviews,negative
